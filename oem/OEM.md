@@ -1,2 +1,2 @@
 # OEM Wiki
-These are the wiki pages for OEM. This wiki is a work in progress
+These are the wiki pages for [OEM](https://modrinth.com/mod/origamikings-enhancement-mod). This wiki is a work in progress
