@@ -5,3 +5,4 @@ Explore
 - [Items](./Items.md)
 - [Blocks](./Blocks.md)
 - [Addons](./Addons.md)
+- [Making an Addon](./Making-An-Addon.md)
