@@ -2,9 +2,11 @@
 
 ### Energon
 - Can be found between y equals -40 and 70
+- Must be mined with a iron pickaxe or higher
 
 ### Ore-13
 - Can be found between y equals -30 and 30
+- Must be mined with a iron pickaxe or higher
 
 ### Transformium
 - Is not an ore and has to be crafted in the Refinery Block
