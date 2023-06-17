@@ -3,6 +3,7 @@ These are the wiki pages for [ORM](https://modrinth.com/mod/origamikings-robotic
 
 Explore 
 - [Items](./Items.md)
+- [Armors](./Armor.md)
 - [Blocks](./Blocks.md)
 - [Addons](./Addons.md)
 - [Making an Addon](./Making-An-Addon.md)
