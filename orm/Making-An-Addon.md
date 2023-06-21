@@ -12,16 +12,9 @@ orm_version=(version number or id)
  Then add this to your `build.gradle` file.
  ```gradle
  repositories {
-    exclusiveContent {
-        forRepository {
-            maven {
-                name = "Modrinth"
-                url = "https://api.modrinth.com/maven"
-            }
-        }
-        filter {
-            includeGroup "maven.modrinth"
-        }
+    maven {
+       name = "Modrinth"
+       url = "https://api.modrinth.com/maven"
     }
 }
 dependencies {
